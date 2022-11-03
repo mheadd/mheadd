@@ -4,7 +4,7 @@ In the past, I have worked for:
 
   
 |  Federal Government | State Government  | Municipal Government  | Non-profit  |  Academia |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | [18F / Cloud.gov](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) | [State of New Delaware](https://dti.delaware.gov/)  | [City of Philadelphia](https://www.phila.gov/)  | [Code for America ](https://codeforamerica.org/)  | [SUNY Albany CTG](https://www.ctg.albany.edu/) |
 |   | [State of New York](https://www.nysenate.gov/)  |   | [Bloomberg Philanthropies](https://whatworkscities.bloomberg.org/)  | |
 
