@@ -13,7 +13,8 @@ My work in government has followed this path:
 
 ```mermaid
 flowchart LR
-   id1{{State of New York}}-->id2{{State of Delaware}}
-   -->id3{{Code for America}}-->id4{{City of Philadelphia}}
-   -->id5{{18F / Cloud.gov}}
+   id1{{State of New York}}
+   -->id2{{State of Delaware}}
+   -->id3{{City of Philadelphia}}
+   -->id4{{18F / Cloud.gov}}
 ```
