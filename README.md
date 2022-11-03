@@ -1,4 +1,4 @@
-I currently work at [Ad Hoc](https://adhocteam.us/), helping government agencies serve their constituents more equitably and effectively using technology. I sometimes [write blog posts here](https://mheadd.medium.com/), and my legacy personal website is [here](https://civic.io). I also sometimes say things on [Twitter](https://twitter.com/mheadd).
+:wave: I currently work at [Ad Hoc](https://adhocteam.us/) helping government agencies improve service delivery usign technology. I sometimes [write blog posts here](https://mheadd.medium.com/), and my legacy personal website is [here](https://civic.io). I also sometimes say things on [Twitter](https://twitter.com/mheadd).
 
 In the past, I have worked for:
 
