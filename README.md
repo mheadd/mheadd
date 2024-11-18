@@ -1,4 +1,4 @@
-:wave: I currently work at [Ad Hoc](https://adhocteam.us/) helping government agencies improve service delivery using technology. I sometimes [write blog posts on my personal website](https://civic.io). I also sometimes say things on [LinkedIn](https://www.linkedin.com/in/markheadd/recent-activity/all/), [Mastodon](https://mastodon.social/@mheadd), and no longer on [Twitter](https://twitter.com/mheadd).
+:wave: I currently work at [Ad Hoc](https://adhocteam.us/) helping government agencies improve service delivery using technology. I sometimes [write blog posts on my personal website](https://civic.io). I also sometimes say things on [LinkedIn](https://www.linkedin.com/in/markheadd/recent-activity/all/), [Mastodon](https://mastodon.social/@mheadd) and [BlueSky](https://bsky.app/profile/mheadd.bsky.social).
 
 In the past, I have worked for:
 
