@@ -1,4 +1,4 @@
-:wave: I currently work at [Ad Hoc](https://adhocteam.us/) helping government agencies improve service delivery using technology. I sometimes [write blog posts on my personal website](https://civic.io). I also sometimes say things on [LinkedIn](https://www.linkedin.com/in/markheadd/recent-activity/all/), [Mastodon](https://mastodon.social/@mheadd) and [BlueSky](https://bsky.app/profile/mheadd.bsky.social).
+:wave: I currently work for the State of New York as a Deputy Commissioner for Technology. Previously, I worked at a digital services company called [Ad Hoc](https://adhocteam.us/) helping federal government agencies improve service delivery using technology. I sometimes [write blog posts on my personal website](https://civic.io). I also sometimes say things on [LinkedIn](https://www.linkedin.com/in/markheadd/recent-activity/all/), [Mastodon](https://mastodon.social/@mheadd) and [BlueSky](https://bsky.app/profile/mheadd.bsky.social).
 
 In the past, I have worked for:
 
@@ -18,4 +18,5 @@ flowchart LR
    -->id2{{State of Delaware}}
    -->id3{{City of Philadelphia}}
    -->id4{{TTS / 18F / Cloud.gov}}
+   -->id5{{State of New York}}
 ```
